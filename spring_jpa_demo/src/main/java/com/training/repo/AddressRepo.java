@@ -1,0 +1,9 @@
+package com.training.repo;
+
+import com.training.entities.Address;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface AddressRepo extends JpaRepository<Address,Long> {
+}

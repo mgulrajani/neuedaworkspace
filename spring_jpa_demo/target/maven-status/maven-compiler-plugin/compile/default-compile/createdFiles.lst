@@ -1,0 +1,6 @@
+com\training\entities\Project.class
+com\training\repo\ProjectRepo.class
+com\training\entities\Address.class
+com\training\SpringJpaDemoApplication.class
+com\training\entities\Employee.class
+com\training\repo\EmployeeRepo.class
